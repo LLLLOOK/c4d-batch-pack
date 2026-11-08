@@ -1,5 +1,7 @@
 # 批量打包 C4D 工程
 
+*Batch Pack C4D Projects · Cinema 4D script plugin · Save Project with Assets · collect textures and assets for .c4d files*
+
 Cinema 4D 里的一个小脚本插件：选中一个文件夹，把里面多个 `.c4d` 工程一次性打包成「各自独立、带贴图素材」的文件夹，方便归档和交付给别人。
 
 > 它不是独立软件，要在 C4D 里面运行；不用安装任何额外的库。
